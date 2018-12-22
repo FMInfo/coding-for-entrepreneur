@@ -3,7 +3,16 @@ public class Main {
         // System.out.println("hello world");
 
         // Opertaors
-        Operators operators = new Operators();
-        operators.computer();
+//        Operators operators = new Operators();
+//        operators.computer();
+
+        //PrimitiveDataType
+
+        PrimitiveDataTypes primitiveDataTypes = new PrimitiveDataTypes();
+//        primitiveDataTypes.explainInteger();
+//        primitiveDataTypes.explainDouble();
+//        primitiveDataTypes.castNumber();
+        primitiveDataTypes.explainString();
+        primitiveDataTypes.parseData();
     }
 }
