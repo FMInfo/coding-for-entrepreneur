@@ -39,8 +39,31 @@ public class Main {
 //        homeWork2.FavoritesFood("사이다");
 
         //Classes
-        Classes classes = new Classes();
-        classes.a = 5;
-        System.out.println(classes.sum());
+//        Classes classes = new Classes(1,2);
+
+//        System.out.println(classes.sum());
+//        System.out.println(classes.multiply());
+//
+//        Classes classes2 = new Classes(2,4);
+//
+//        System.out.println(classes2.sum());
+//        System.out.println(classes2.multiply());
+//
+//        Subclasses subclasses = new Subclasses(4,2);
+//        System.out.println(subclasses.sum());
+//        System.out.println(subclasses.substract());
+//        System.out.println(subclasses.multiply());
+//        System.out.println(subclasses.divide());
+
+//        AccessModifiers accessModifiers = new AccessModifiers(4,5);
+//        accessModifiers.a = 3;
+//        accessModifiers.b =4;
+//
+//        System.out.println(accessModifiers.sum());
+//        System.out.println("a = "+accessModifiers.getA());
+//
+//        accessModifiers.setA(10);
+//        System.out.println("setter a = "+accessModifiers.getA());
+//        System.out.println(accessModifiers.sum());
     }
 }
